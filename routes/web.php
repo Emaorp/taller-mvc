@@ -11,3 +11,4 @@ include('web/contrasenas.php');
 include('web/gastos.php');
 include('web/reservas.php');
 include('web/notas.php');
+include('web/eventos.php');
