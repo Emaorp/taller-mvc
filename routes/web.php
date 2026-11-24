@@ -10,3 +10,4 @@ include('web/propinas.php');
 include('web/contrasenas.php');
 include('web/gastos.php');
 include('web/reservas.php');
+include('web/notas.php');
