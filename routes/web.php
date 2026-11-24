@@ -14,3 +14,4 @@ include('web/notas.php');
 include('web/eventos.php');
 include('web/recetas.php');
 include('web/memoria.php');
+include('web/encuestas.php');
